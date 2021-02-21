@@ -1,0 +1,5 @@
+ Install module speech_recognition
+ Install module import pyttsx3
+ Install module wikipedia
+ Install module webbrowser
+ 
